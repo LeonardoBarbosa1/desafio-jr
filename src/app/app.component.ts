@@ -1,3 +1,4 @@
+import { LoginComponent } from './login/login.component';
 import { Component } from '@angular/core';
 
 @Component({
@@ -7,4 +8,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'desafio2';
+  constructor(){
+
+  }
 }
